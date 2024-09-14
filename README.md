@@ -52,9 +52,8 @@ The program uses object-oriented principles, with classes representing accounts 
 This README file gives an overview of the project, how to run it, and potential future enhancements. Feel free to modify it according to your needs.
 
 
-Here’s a detailed description for the `README.md` file of your **Online Banking System** project:
 
----
+
 
 # Online Banking System
 
