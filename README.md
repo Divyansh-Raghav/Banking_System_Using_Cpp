@@ -1,8 +1,7 @@
 # Brainwave_Matrix_Intern
 
-Here's a more detailed description you can use for the `README.md` file on GitHub:
 
----
+
 
 # ATM Project
 
